@@ -1,0 +1,3 @@
+A dual sensor Lora node for soil moisture.
+
+It uses to catnip FDR sensors and a catnip (feather compatible) lora node.
